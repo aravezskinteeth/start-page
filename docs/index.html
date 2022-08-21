@@ -138,7 +138,7 @@
 			const html = document.getElementById("html");
 
 			// Themes list
-			const colorchemes = ["default", "gruvbox", "nord"];
+			const colorchemes = ["default", "gruvbox", "nord", "catppuccin"];
 
 			let changeTheme = (e) => {
 				// Change theme key
@@ -161,8 +161,11 @@
 						case 2:
 						slideIndex=10;
 						break;
+            case 3:
+						slideIndex=21;
+						break;
 						default:
-							havematched = false;
+            havematched = false;
 							}
 							if (havematched){
 							localStorage.setItem("slideIndex", slideIndex);

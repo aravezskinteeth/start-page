@@ -48,6 +48,21 @@ html[data-theme="nord"] {
   --fg-yellow:  #ebcb8b;
 }
 
+html[data-theme="catppuccin"] {
+  --bgcolor: #24273A;
+  --fg-hd:  #CAD3F5;
+  --fg-flair: #f0c6c6;
+  --main-border: #24273a;
+  --bg-main: #1e2030;
+  --fg-codes: #cad3f5;
+  --fg-nav:   #a5adcb;
+  --fg-url: #b7bdf8;
+  --fg-green: #a6da95;
+  --fg-blue: #8aadf4;
+  --fg-red:  #ed8796;
+  --fg-yellow:  #eed49f;
+}
+
 body {
   font-family: 'Iosevka', monospace;
   font-size: 20px;
@@ -96,7 +111,8 @@ h1 {
 .image-wrapper {
   border-style: solid;
   border-width: 1px;
-  border-color: #232328;
+  border-color: var(--main-border);
+  border-left: 0;
   position: absolute;
   border-radius: 0 8px 8px 0;
   overflow: hidden;
@@ -104,7 +120,7 @@ h1 {
   width: 300px;
   height: 600px;
   left: 770px;
-  background-color: #18181D;
+  background-color: var(--bg-main);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

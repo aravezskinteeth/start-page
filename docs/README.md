@@ -14,6 +14,10 @@ To change the theme press "c".
 
 ![nord theme](nord.png)
 
+### Catppuccin theme
+
+![catppuccin them](catppuccin.png)
+
 ### Live Demo: <a href="http://BeakBryno7.github.io/startpage/">Demo</a>
 
 ### Default Home
