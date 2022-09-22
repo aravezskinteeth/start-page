@@ -48,7 +48,7 @@ html[data-theme="nord"] {
   --fg-yellow:  #ebcb8b;
 }
 
-html[data-theme="catppuccin"] {
+html[data-theme="Macchiato"] {
   --bgcolor: #24273A;
   --fg-hd:  #CAD3F5;
   --fg-flair: #f0c6c6;
@@ -61,6 +61,21 @@ html[data-theme="catppuccin"] {
   --fg-blue: #8aadf4;
   --fg-red:  #ed8796;
   --fg-yellow:  #eed49f;
+}
+
+html[data-theme="Mocha"] {
+  --bgcolor: #181825;
+  --fg-hd:  #cdd6f4;
+  --fg-flair: #f2cdcd;
+  --main-border: #1e1e2e;
+  --bg-main: #11111b;
+  --fg-codes: #cdd6f4;
+  --fg-nav:   #a6adc8;
+  --fg-url: #b4befe;
+  --fg-green: #a6e3a1;
+  --fg-blue: #89b4fa;
+  --fg-red:  #f38ba8;
+  --fg-yellow:  #f9e2af;
 }
 
 body {
