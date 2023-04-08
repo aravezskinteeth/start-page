@@ -1,6 +1,6 @@
 # Startpage
 
-## This is [mhmdali102's](https://github.com/mhmdali102) fork of mtwb47's [startpage](https://github.com/mtwb47/mtwb47.github.io) with [gruvbox](https://github.com/morhetz/gruvbox) and [nord](https://github.com/arcticicestudio/nord) theme.
+## This is [MAHcodes's](https://github.com/MAHcodes) fork of mtwb47's [startpage](https://github.com/mtwb47/mtwb47.github.io) with [gruvbox](https://github.com/morhetz/gruvbox) and [nord](https://github.com/arcticicestudio/nord) theme.
 
 ### Change Theme:
 
