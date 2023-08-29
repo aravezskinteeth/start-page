@@ -32,6 +32,10 @@ To change the theme press "c".
 
 This is a fork of RamenMaestro's [startpage](https://github.com/RamenMaestro/startpage) with a image scroll option and larger option size.
 
+## To Do
+
+- [ ] Make the background rectangle bigger
+
 ## Credits
 
 Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
