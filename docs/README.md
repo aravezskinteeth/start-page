@@ -35,6 +35,7 @@ This is a fork of RamenMaestro's [startpage](https://github.com/RamenMaestro/sta
 ## To Do
 
 - [ ] Make the background rectangle bigger
+- [ ] Make a wikipage explaining how to add a custom startpage to Mozilla Firefox.
 
 ## Credits
 
