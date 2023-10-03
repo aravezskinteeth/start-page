@@ -35,8 +35,8 @@ This is a fork of RamenMaestro's [startpage](https://github.com/RamenMaestro/sta
 ## To Do
 
 - [ ] Make the background rectangle bigger
-- [ ] Fix white background issue found in Firefox 117.
 - [ ] Make a wikipage explaining how to add a custom startpage to Mozilla Firefox.
+- [x] ~~Fix white background issue found in Firefox 117.~~
 
 ## Credits
 
