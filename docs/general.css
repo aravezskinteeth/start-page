@@ -81,7 +81,7 @@ html[data-theme="Mocha"] {
 body {
   font-family: 'Iosevka', monospace;
   font-size: 20px;
-  /*background-color: var(--bgcolor);*/
+  background-color: var(--bgcolor);
   background-image: url("img/");
   background-repeat: repeat;
   width: 670px;
