@@ -192,10 +192,10 @@ img {
   font-family: Iosevka, monospace;
   font-size: 18px;
   position: absolute;
-  top: 560px;
+  top: 35px;
+  left: 250px;
   width: auto;
   height: auto;
-  left: 250px;
 }
 
 li {
@@ -213,6 +213,18 @@ nav {
   margin-left: auto;
   margin-right: auto;
   position: relative;
+}
+
+div[id = green] {
+    display: inline-block;
+    width:120px;
+    height:120px;
+}
+
+div[id = red] {
+    display: inline-block;
+    width:160px;
+    height:160px;
 }
 
 ul {
