@@ -215,18 +215,6 @@ nav {
   position: relative;
 }
 
-div[id = green] {
-    display: inline-block;
-    width:120px;
-    height:120px;
-}
-
-div[id = red] {
-    display: inline-block;
-    width:160px;
-    height:160px;
-}
-
 ul {
   display: table-cell;
   horizontal-align: middle;

@@ -1,9 +1,5 @@
 # Startpage
 
-This is [aravezskinteeth's](https://github.com/aravezskinteeth) fork of [mhmdali102's](https://github.com/mhmdali102), which is a fork of mtwb47's [startpage](https://github.com/mtwb47/mtwb47.github.io). I made subtle adjutments to make the page fit in smaller windows.
-
-## [mhmdali102's](https://github.com/mhmdali102) changes
-
 ### Change Theme:
 
 To change the theme press "c".
